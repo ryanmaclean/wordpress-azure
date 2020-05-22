@@ -79,8 +79,11 @@ you may wish to disable the plugin or theme editor to prevent overzealous users 
 potentially crash the site. Disabling these also provides an additional layer of security if a hacker gains access to a 
 well-privileged user account.
 Note : If your plugin or theme you use with your app requires editing of the files , comment the line below for 'DISALLOW_FILE_EDIT'
+
+EDIT: required for demos! <3
+
 */
-define('DISALLOW_FILE_EDIT', true);
+# define('DISALLOW_FILE_EDIT', true);
 
 
 /**#@-*/
