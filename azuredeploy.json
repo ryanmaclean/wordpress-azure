@@ -25,7 +25,7 @@
     },
     "branch": {
       "type": "string",
-      "defaultValue": "master"
+      "defaultValue": "5.2.4-windows-wp"
     }
   },
   "resources": [
